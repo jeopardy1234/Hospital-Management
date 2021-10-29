@@ -43,21 +43,21 @@ python3 Hospital-Management/Phase\ 4/Hospital.py
   - `insertAttendant()`
   - `insertMedicine()`
   - `insertEmployee()`
-  - `insertBill(`)
+  - `insertBill()`
   - `insertRoom()`
 - **Deletion:**
   - `deletePatient()`
   - `deleteAttendant()`
   - `deleteMedicine()`
   - `deleteEmployee()`
-  - `deleteBill(`)
+  - `deleteBill()`
   - `deleteRoom()`
 - **Modification:**
   - `updatePatient()`
   - `updateAttendant()`
   - `updateMedicine()`
   - `updateEmployee()`
-  - `updateBill(`)
+  - `updateBill()`
   - `updateRoom()`
 - **Report:**
   - `GeneratePatientReport()`
